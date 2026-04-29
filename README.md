@@ -15,7 +15,7 @@ This repository contains a machine learning project designed to estimate laptop 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/laptop-price-predictor.git](https://github.com/your-username/laptop-price-predictor.git)
+    git clone [https://github.com/ZentrixGroup/laptop-price-predictor.git](https://github.com/your-username/laptop-price-predictor.git)
     ```
 
 2.  **Install required libraries:**
